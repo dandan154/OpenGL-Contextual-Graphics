@@ -1,6 +1,8 @@
 # OpenGL-Contextual-Graphics
 The C++ &amp; GLSL code from a graphics program designed to display a house with a skybox, lit using a variety of lighting techniques from a dynamic light source. 
 
+Textures and objects have been excluded due to licensing. 
+
 ## Functionality
 The goal of this initial program was to load and display a .obj file of a house which was then placed within the context of a landscape and a skybox (which were also loaded .obj files). These loaded objects were then lit using a variety of dynamic lighting techniques which could be examined through an interactive display window, where the user could move about the scene created within the program. 
 
